@@ -1,0 +1,16 @@
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\HeroesGame.deps.json
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\HeroesGame.dll
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\HeroesGame.pdb
+D:\kalin\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.csproj.AssemblyReference.cache
+D:\kalin\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\kalin\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.AssemblyInfoInputs.cache
+D:\kalin\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.AssemblyInfo.cs
+D:\kalin\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.csproj.CoreCompileInputs.cache
+D:\kalin\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.dll
+D:\kalin\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.pdb
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\nunit.engine.dll
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\nunit.engine.core.dll
+D:\kalin\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\testcentric.engine.metadata.dll
